@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Web tooling, local secrets and large research inputs
+node_modules/
+.next/
+.vercel/
+.env.*
+!.env.example
+data/raw/
+work/
+.DS_Store
