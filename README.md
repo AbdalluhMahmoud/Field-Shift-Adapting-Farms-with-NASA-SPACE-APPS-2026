@@ -25,11 +25,6 @@ Shared project context for our NASA Space Apps 2026 team at Zewail City, Giza, E
 | [docs/AI_USAGE.md](docs/AI_USAGE.md) | AI assistance and review disclosure log |
 | [docs/brand/](docs/brand/README.md) | Empty identity and color files awaiting the team's update |
 
-## Important unknowns
-
-The previous README reports November 13–14; the supplied guide reports November 14–15. Neither is independently verified here. Confirm local kickoff, submission and pitch deadlines in **Africa/Cairo** with the organizer. The exact official challenge URL, resource eligibility, rules, and judging rubric remain pending in the verification register. Candidate NASA products are not automatically approved challenge resources.
-
-Existing event images remain in `assets/`; they are reference assets, not an approved project brand. Existing MIT licensing is retained in [LICENSE](LICENSE); third-party data and assets retain their own terms.
 
 ## Repository checks
 
