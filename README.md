@@ -170,12 +170,6 @@ We believe that understanding our planet is an important step toward protecting 
 
 Through the NASA Space Apps Challenge, we are excited to explore how science, engineering, and collaboration can contribute to a more sustainable agricultural future.
 
-## 🙏 Acknowledgments
-We would like to thank:
-- **NASA Space Apps Challenge** for creating a global platform for innovation and scientific exploration.
-- **NASA Earth Science** for making valuable Earth observation resources publicly accessible.
-- **Zewail City of Science and Technology** for the Giza local event.
-
 ---
 
 <br>
